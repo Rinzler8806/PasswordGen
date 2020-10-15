@@ -4,7 +4,7 @@ This project was developed with the intention of a dynamic page to generate a ra
 The random password generated gives the user the option of using variables from upper/lower case letters, numbers, and special characters.
 The user also has the option of making this password generate anywhere from eight to 128 characters.
 
-Please visit the following address to create your password! https://rinzler8806.github.io/PasswordGen/
+Please visit the following address to generate your password! https://rinzler8806.github.io/PasswordGen/
 
 ![](assets/PassWordGenSS.png)
 
