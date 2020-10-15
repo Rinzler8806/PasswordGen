@@ -6,6 +6,6 @@ The user also has the option of making this password generate anywhere from eigh
 
 Please visit the following address to create your password! https://rinzler8806.github.io/PasswordGen/
 
-https://github.com/Rinzler8806/PasswordGen/blob/master/assets/PassWordGenSS.png
+![](assets/PassWordGenSS.png)
 
 Enjoy!
